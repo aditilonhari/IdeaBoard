@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://github.com/aditilonhari/Flickster/blob/master/flickster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/aditilonhari/IdeaBoard/blob/master/FirstReactApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Below you will find some information on how to perform common tasks.<br>
